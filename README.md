@@ -1,4 +1,4 @@
-#JahYa Messenger
+# JahYa Messenger
 
 # Setup
 1. Clone repo
